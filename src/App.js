@@ -10,7 +10,7 @@ function App() {
   return (
     <React.Fragment>
     
-<Navbar title="algoWorks"  aboutText="KAuSHAL"/>
+<Navbar title="algoWorks"  aboutText="KAuSHAL KISHOR"/>
 <div className="container my-3" >
   <TextForm heading="enter the text to analyze" />
 </div>
