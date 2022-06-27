@@ -20,7 +20,7 @@ function App() {
   return (
     <>
    
-    <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode} />
+    <Navbar title="Algoworks" mode={mode} toggleMode={toggleMode} />
     <div className="container my-3">
     <TextForm heading="Enter the text to analyze below" mode={mode}/>
     </div>
